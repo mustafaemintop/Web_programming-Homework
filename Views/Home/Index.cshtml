@@ -1,0 +1,25 @@
+@model List<MealOrder>
+@{ ViewData["Title"] = "Home"; }
+
+<h1>@ViewBag.CafeteriaName</h1>
+<p>Date: @ViewBag.CurrentDate</p>
+<p>Collected orders: <strong>@ViewBag.CollectedCount</strong></p>
+
+<p>
+    <a asp-controller="Orders" asp-action="Collect">Collect a meal</a> |
+    <a asp-controller="Orders" asp-action="List">View all orders</a>
+</p>
+
+<h2>Collected Orders</h2>
+<table border="1" cellpadding="5">
+    <tr><th>Order ID</th><th>Student</th><th>Meal</th><th>Collected At</th></tr>
+    @foreach (var o in Model)
+    {
+        <tr>
+            <td>@o.OrderID</td>
+            <td>@o.StudentName</td>
+            <td>@o.MealName</td>
+            <td>@o.CollectedAt?.ToString("dd.MM.yyyy HH:mm")</td>
+        </tr>
+    }
+</table>

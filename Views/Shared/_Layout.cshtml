@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Meal Order Collection</title>
+</head>
+<body>
+    <nav>
+        <a asp-controller="Home" asp-action="Index">Home</a> |
+        <a asp-controller="Orders" asp-action="List">All Orders</a> |
+        <a asp-controller="Orders" asp-action="Collect">Collect Meal</a>
+    </nav>
+    <hr />
+
+    @RenderBody()
+
+    <hr />
+    <footer>
+        Developers: Mustafa emin top (B241202074) 
+    </footer>
+</body>
+</html>

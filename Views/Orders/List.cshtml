@@ -1,0 +1,18 @@
+@model List<MealOrder>
+
+<h1>All Meal Orders</h1>
+<p>Total orders: <strong>@ViewBag.TotalCount</strong></p>
+
+<table border="1" cellpadding="5">
+    <tr><th>Order ID</th><th>Student</th><th>Meal</th><th>Status</th><th></th></tr>
+    @foreach (var o in Model)
+    {
+        <tr>
+            <td>@o.OrderID</td>
+            <td>@o.StudentName</td>
+            <td>@o.MealName</td>
+            <td>@(o.Collected ? "Collected" : "Not collected")</td>
+            <td><a asp-action="Details" asp-route-id="@o.OrderID">Collection info</a></td>
+        </tr>
+    }
+</table>

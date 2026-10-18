@@ -1,0 +1,90 @@
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/appsettings.Development.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/appsettings.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.staticwebassets.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.deps.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.runtimeconfig.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.pdb
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.AssemblyInfoInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.AssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/scopedcss/bundle/MealOrderCollection.styles.css
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/staticwebassets.build.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/staticwebassets.development.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/swae.build.ex.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/refint/MealOrderCollection.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.pdb
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.genruntimeconfig.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/ref/MealOrderCollection.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.RazorAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/MealOrderCollection/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.RazorAssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/appsettings.Development.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/appsettings.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.staticwebassets.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.deps.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.runtimeconfig.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/bin/Debug/net10.0/MealOrderCollection.pdb
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.AssemblyInfoInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.AssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.RazorAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.RazorAssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/scopedcss/bundle/MealOrderCollection.styles.css
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/staticwebassets.build.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/staticwebassets.development.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/swae.build.ex.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/refint/MealOrderCollection.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.pdb
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/MealOrderCollection.genruntimeconfig.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/Homework1_initial/MealOrderCollection/obj/Debug/net10.0/ref/MealOrderCollection.dll
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.AssemblyInfoInputs.cache
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.AssemblyInfo.cs
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.RazorAssemblyInfo.cache
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.RazorAssemblyInfo.cs
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.dll
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\refint\MealOrderCollection.dll
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.pdb
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\appsettings.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\MealOrderCollection.staticwebassets.endpoints.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\MealOrderCollection.exe
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\MealOrderCollection.deps.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\MealOrderCollection.runtimeconfig.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\MealOrderCollection.dll
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\bin\Debug\net10.0\MealOrderCollection.pdb
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\scopedcss\bundle\MealOrderCollection.styles.css
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\MealOrderCollection.genruntimeconfig.cache
+C:\Users\Mustafa Emin\Desktop\ders\web programlama\MealOrderCollection\obj\Debug\net10.0\ref\MealOrderCollection.dll

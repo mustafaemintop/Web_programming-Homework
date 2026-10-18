@@ -1,0 +1,15 @@
+@model MealOrder
+
+<h1>Collection Information</h1>
+<ul>
+    <li>Order ID: @Model.OrderID</li>
+    <li>Student: @Model.StudentName</li>
+    <li>Meal: @Model.MealName</li>
+    <li>Status: @(Model.Collected ? "Collected" : "Not collected")</li>
+    <li>Collected at:
+        @(Model.CollectedAt.HasValue
+            ? Model.CollectedAt.Value.ToString("dd.MM.yyyy HH:mm")
+            : "Not collected yet")
+    </li>
+</ul>
+<a asp-action="List">Back to list</a>

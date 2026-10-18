@@ -1,0 +1,15 @@
+@model CollectViewModel
+
+<h1>Collect Meal</h1>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<form asp-action="Collect" method="post">
+    <label asp-for="OrderID">Order ID</label>
+    <input asp-for="OrderID" />
+    <span asp-validation-for="OrderID" style="color:red"></span>
+    <button type="submit">Collect</button>
+</form>
